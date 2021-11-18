@@ -1,0 +1,7 @@
+main\java\com\springsecurity\config\AppConfig.class
+main\java\com\springsecurity\controller\SpringController.class
+main\java\com\springsecurity\config\SecurityConfig.class
+main\java\com\springsecurity\config\MvcDispatcherServletInitializer.class
+main\java\com\springsecurity\config\SecurityWebApplicationInitializer.class
+main\java\com\springsecurity\controller\LoginController.class
+test\java\com\luv2code\springsecurity\demo\AppTest.class
